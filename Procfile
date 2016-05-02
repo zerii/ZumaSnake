@@ -1,1 +1,1 @@
-web: sh target/bin/webapp
+web: sh target/ZumaSnake-1.0-SNAPSHOT
